@@ -9,3 +9,9 @@ setting:
     repo: hexo-friends
     state: open
     label: active # none关闭功能
+  gitee_friends_links: # gitee友链配置
+    enable: true
+    owner: xaoxuu
+    repo: friends
+    state: open
+    labelid: none # none关闭功能
