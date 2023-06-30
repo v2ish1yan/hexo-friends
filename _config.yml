@@ -3,16 +3,9 @@ setting:
     timeout: 10 # 超时设置
     ssl: false # ssl设置
 
-  gitee_friends_links: # gitee友链配置
-    enable: true
-    owner: xaoxuu
-    repo: friends
-    state: open
-    labelid: 77925545 # none关闭功能
-
   github_friends_links: # github友链配置
     enable: true
-    owner: xaoxuu
-    repo: friends
+    owner: v2ish1yan 
+    repo: hexo-friends
     state: open
     label: active # none关闭功能
